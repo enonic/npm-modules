@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/enonic/npm-modules/tree/master/packages/eslint-config",
   "dependencies": {
-    "globals": "^16.0.0"
+    "globals": "^17.0.0"
   },
   "peerDependencies": {
     "@typescript-eslint/parser": "^8.39.0",
