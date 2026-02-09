@@ -41,6 +41,6 @@
   "devDependencies": {
     "@enonic/eslint-config": "./",
     "@eslint/js": "^10.0.1",
-    "eslint": "^9.31.0"
+    "eslint": "^10.0.0"
   }
 }
